@@ -1,0 +1,6 @@
+/__pycache__
+/env
+/tuto.py
+.env
+*__pycache__
+*__init__.pyc
